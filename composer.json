@@ -68,7 +68,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://repo.magento.com/"
+            "url": "https://MAG005832983:8d3ae13474b9e348ff0b38825b28063488b87149@repo.magento.com/"
         }
     ],
     "extra": {
