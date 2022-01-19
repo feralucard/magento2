@@ -7,7 +7,7 @@
         "AFL-3.0"
     ],
     "config": {
-        "process-timeout":      2000,
+        "process-timeout":      20000,
         "preferred-install": "dist",
         "sort-packages": true
     },
